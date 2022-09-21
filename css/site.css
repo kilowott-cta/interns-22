@@ -1,1 +1,135 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    min-height:100vh;
+    width:100;
+    background-image:url(images/Capture1.jpeg);
+    background-position:center;
+    background-size:cover;
+    position:relative;
+    
+}
+nav{
+    display:flex;
+    padding: 2% 6%;
+    justify-content:space-between;
+    align-items:center;
+}
+nav img{
+    width:100px;
+    align-items: flex-start
+}
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+.nav-links ul li a{
+    color:black;
+    text-decoration:none;
+    font-size:20px;
 
+}
+.nav-links ul li::after{
+    content:'';
+    width:0%;
+    height: 2px;
+    background: #f44336;
+    display:block;
+    margin: auto;
+    transition:0.5s;
+    
+}
+.nav-links ul li:hover::after{
+     width:100%;
+}
+.txt-box{
+    width: 90%;
+    color:black;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    text-align: center;
+}
+.txt-box{
+    margin: 10px 0 40px;
+    font-size: 45px;
+    color:black;
+}
+.txt-box1{
+    width: 90%;
+    color:#000000;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    text-align:center;
+}
+.txt-box1{
+    margin: 20px 0 60px;
+    font-size: 20px;
+    color: #000000;
+}
+.products{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 15px;
+    text-decoration:none;
+}
+.desc{
+    text-align: center;
+    background-color: antiquewhite;
+    table-layout: auto;
+    background-size: cover;
+    width: 100%;
+    display: table;
+   
+}
+.new{
+    margin-top:60px;
+}
+.para{
+    margin-bottom: 30px;
+}
+.container{
+    max-width: 1200px;
+    margin-left:15%;
+    background:#fff;
+    overflow:auto;
+    align-content:space-around;
+    
+}
+.gallery{
+    
+    margin:20px;
+    border: 1px solid #ccc;
+    width: 390px;
+    float:left;
+
+    
+}
+.gallery img{
+    width:100%;
+height:150%;
+}
+
+.dessc{
+    padding: 25px;
+    text-align:center;
+    color:black;
+    text-decoration: none;
+
+}
+.end{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    font-size: 20px;
+}
