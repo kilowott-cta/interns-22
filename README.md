@@ -28,3 +28,14 @@ Ocean
 ![2766b7a6-c994-4301-a104-ead783ef3d58](https://user-images.githubusercontent.com/113114313/191669018-fdba0e99-2446-4eb3-aacf-0f79c2cb7229.jpg)      3
 
 ![082df6ec-2c0c-44d8-93a1-d7f6baa9c6a6](https://user-images.githubusercontent.com/113114313/191669060-0455232b-d393-44a2-9f94-17a935ccc39c.jpg)      4
+
+
+Wavefarer
+![2dde13a2-001b-4b59-a838-4d9015b9ffae](https://user-images.githubusercontent.com/113114313/191669528-01f431b8-e24b-48ab-b4dd-eaa8ffa7e8de.jpg)     1
+
+
+![25d21c2b-4819-4ef1-a34e-74db44c9b9c6](https://user-images.githubusercontent.com/113114313/191669502-36ce493f-053c-4e08-      902e-8a73460dfea9.jpg)     2
+
+![269fa449-f032-4003-bb6d-18740537b74d](https://user-images.githubusercontent.com/113114313/191669545-7022c01b-3893-43ba-afe3-c734e6341dc3.jpg)     3
+
+![f57f0426-975d-4efb-90cd-4139da7e0798](https://user-images.githubusercontent.com/113114313/191669557-b3a9a929-79a2-4c0f-9c8a-797a2e87a812.jpg)      4
