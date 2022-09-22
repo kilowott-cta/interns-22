@@ -33,8 +33,7 @@ Ocean
 Wavefarer
 ![2dde13a2-001b-4b59-a838-4d9015b9ffae](https://user-images.githubusercontent.com/113114313/191669528-01f431b8-e24b-48ab-b4dd-eaa8ffa7e8de.jpg)     1
 
-
-![25d21c2b-4819-4ef1-a34e-74db44c9b9c6](https://user-images.githubusercontent.com/113114313/191669502-36ce493f-053c-4e08-      902e-8a73460dfea9.jpg)     2
+![25d21c2b-4819-4ef1-a34e-74db44c9b9c6](https://user-images.githubusercontent.com/113114313/191669913-87d3b990-2e6d-4776-ab6e-497eeb0ceb69.jpg)     2
 
 ![269fa449-f032-4003-bb6d-18740537b74d](https://user-images.githubusercontent.com/113114313/191669545-7022c01b-3893-43ba-afe3-c734e6341dc3.jpg)     3
 
