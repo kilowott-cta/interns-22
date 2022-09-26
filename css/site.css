@@ -83,7 +83,7 @@ nav img{
 }
 .desc{
     text-align: center;
-    background-color: antiquewhite;
+    background-color: rgb(255, 20, 255);
     table-layout: auto;
     background-size: cover;
     width: 100%;
@@ -99,7 +99,7 @@ nav img{
 .container{
     max-width: 1200px;
     margin-left:15%;
-    background:#fff;
+    background:rgb(29, 17, 138);
     overflow:auto;
     align-content:space-around;
     
